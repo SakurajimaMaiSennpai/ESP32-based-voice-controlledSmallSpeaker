@@ -1,0 +1,1 @@
+# ESP32-based-voice-controlledSmallSpeaker
